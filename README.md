@@ -1,8 +1,8 @@
 # Celestial Bodies Pathfinding Visualization
 
-![Celestial Pathfinding](https://via.placeholder.com/1000x750/0a0a20/ffffff?text=Celestial+Bodies+Pathfinding+Visualization) [web:42]
+![Celestial Pathfinding](https://via.placeholder.com/1000x750/0a0a20/ffffff?text=Celestial+Bodies+Pathfinding+Visualization)
 
-Interactive visualization combining orbital mechanics simulation with Dijkstra's shortest path algorithm. Watch planets orbit a central black hole, satellites circle planets, and discover optimal paths between celestial bodies through dynamic graph connections. [web:23]
+Interactive visualization combining orbital mechanics simulation with Dijkstra's shortest path algorithm. Watch planets orbit a central black hole, satellites circle planets, and discover optimal paths between celestial bodies through dynamic graph connections.
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ Interactive visualization combining orbital mechanics simulation with Dijkstra's
 - 🔍 **Dijkstra's Algorithm**: Real-time shortest path computation with heap optimization O((V+E)logV)
 - 🎨 **Bezier Curve Paths**: Smooth, colored curved paths (3-color palette cycling)
 - 🖱️ **Interactive Querying**: Click any two objects to see shortest path instantly
-- ⚡ **60 FPS Performance**: Smooth real-time animations with dynamic edge rendering [web:42]
+- ⚡ **60 FPS Performance**: Smooth real-time animations with dynamic edge rendering
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ python space_graph_thing.py
 
 text
 
-**Controls**: Click any **two objects** (planets/yellow glow, satellites/white dots with trails, black hole/dark center) to visualize shortest path! [web:79]
+**Controls**: Click any **two objects** (planets/yellow glow, satellites/white dots with trails, black hole/dark center) to visualize shortest path! 
 
 ## 🎮 How It Works
 
@@ -79,7 +79,7 @@ text
 The core **black hole gravity and physics simulation concepts** were inspired by and adapted from the excellent work in the [kavan010/black_hole](https://github.com/kavan010/black_hole) repository [attached_file:1]. This C++ repository provides sophisticated black hole simulation covering gravitational physics and lensing effects.
 
 **My Original Contributions:**
-- Complete re-implementation in **Python** with **Pygame**
+- Complete re-implementation in **Python** with **Pygame** With Ai help
 - Integration of **Data Structures & Algorithms (DSA)**
 - **Dijkstra's shortest path algorithm** with heap optimization
 - **Dynamic graph construction** (18-node weighted graph)
@@ -107,22 +107,7 @@ Special thanks to kavan010 for making their physics work available as foundation
 - [ ] Algorithm comparison visualization
 - [ ] Path export to JSON/CSV [web:42]
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details. [web:35]
-
-MIT License
-Copyright (c) 2025 [Syed Aqdas Munire] - Harīpur, Khyber Pakhtunkhwa, Pakistan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-[Full text in LICENSE file]
-
-text
-
 ## 🤝 Contributing
-
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details. [web:36]
-
 1. Fork the project
 2. Create feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
@@ -139,7 +124,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/celestial-bodies-pathfinding/issues)
 - 💬 **Feature Requests**: Discussions or Issues
-- 📧 **Contact**: your.email@example.com
+- 📧 **Contact**: aqis20539@gmail.com
 
 ## 📊 Project Stats
 
@@ -150,7 +135,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 | Satellites | 12 |
 | Stray Stars | 40 |
 | FPS | 60 |
-| Window | 1000×750px [web:69] |
+| Window | 1000×750px
 
 ---
 
