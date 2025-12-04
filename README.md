@@ -1,7 +1,4 @@
 # Celestial Bodies Pathfinding Visualization
-
-![Celestial Pathfinding](https://via.placeholder.com/1000x750/0a0a20/ffffff?text=Celestial+Bodies+Pathfinding+Visualization)
-
 Interactive visualization combining orbital mechanics simulation with Dijkstra's shortest path algorithm. Watch planets orbit a central black hole, satellites circle planets, and discover optimal paths between celestial bodies through dynamic graph connections.
 
 ## ✨ Features
@@ -69,9 +66,6 @@ text
 celestial-bodies-pathfinding/
 ├── space_graph_thing.py # Complete single-file implementation
 ├── README.md # This file
-├── LICENSE # MIT License
-└── CONTRIBUTING.md # Contribution guide
-
 text
 
 ## 🙏 Acknowledgments and Credits
